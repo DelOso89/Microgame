@@ -1,1 +1,1 @@
-El Juego esta en un .zip en realeses
+El Juego esta en un .zip en Releases
